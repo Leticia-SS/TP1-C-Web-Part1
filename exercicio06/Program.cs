@@ -1,5 +1,5 @@
 ﻿using System;
-using exercicio06;
+using exercicio06.Logger;
 
 public class Program
 {

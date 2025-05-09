@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercicio06
+namespace exercicio06.Logger
 {
-    internal class Logger
+    public class Logger
     {
         public void LogToConsole(string message)
         {
